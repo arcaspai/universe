@@ -1,6 +1,6 @@
 # About
 
-The introduction page for Arcaspai Project(아르카스페이 프로젝트).
+The public universe guidebook of Arcaspai Project(아르카스페이 프로젝트).
 
 # License & Copyright
 

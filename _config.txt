@@ -1,0 +1,2 @@
+permalink: /:path/
+incremental: true
