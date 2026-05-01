@@ -1,5 +1,5 @@
 ---
-layouts: default
+layout: default
 title: 홈
 ---
 
