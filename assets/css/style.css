@@ -2,6 +2,9 @@
 
 .universe-header {
     background-image: url("/universe/assets/img/banner.png");
+}
+
+.universe-header h1 {
     text-align: center;
     justify-content: center;
 }
