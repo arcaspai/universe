@@ -3,5 +3,5 @@
 .universe-header {
     background-image: url("/universe/assets/img/banner.png");
     text-align: center;
-    align-items: center;
+    justify-content: center;
 }
