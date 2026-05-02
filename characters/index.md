@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: 세계관
+title: 캐릭터
 ---
 
 - [아크하이브](./arkhive)

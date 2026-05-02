@@ -4,7 +4,28 @@ li {
     margin-left: 2em;
 }
 
-/* main */
+hr {
+    margin-top: 1em;
+}
+
+main {
+    margin: 24px 0;
+}
+
+nav li {
+    margin-left: 0;
+}
+
+
+/* default.html */
+
+.docs-header {
+    height: 24px;
+    background-color: #FCFCFC;
+}
+
+
+/* homepage.html */
 
 .universe-header {
     background-image: url("/universe/assets/img/banner.png");
