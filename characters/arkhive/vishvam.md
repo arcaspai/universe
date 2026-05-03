@@ -1,6 +1,6 @@
 ---
 layout: character
-title: 쿠샤그라
-charname: Kushagra
+title: 비슈밤
+charname: Vishvam
 world: 아크하이브
 ---
