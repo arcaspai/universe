@@ -4,7 +4,7 @@ title: 전역 법칙
 ---
 
 # {{ page.title }}
-Global Law
+*Global Law*
 
 ---
 
@@ -14,7 +14,7 @@ Global Law
 
 ## 다중 우주
 
-Multiverse
+*Multiverse*
 
 각 세상의 기본 단위는 하나의 우주/차원이다.
 한 사람이 직접 관측할 수 있는 부분은 그 많은 부분 중 극히 일부다.
@@ -34,7 +34,7 @@ Multiverse
 
 ## 진리체
 
-The truth entity
+*The truth entity*
 
 우주를 떠다니는 부유체. 별이 원소의 집합체이듯 진리체는 **원자료(raw data; 가공되지 않은 정보)**의 집합체다.
 
@@ -48,7 +48,7 @@ The truth entity
 
 ## 초자연현상
 
-Supernatural phenomenone
+*Supernatural phenomenone*
 
 **크로마플럭스(Chromaflux)**를 이용하는 현상의 총체.
 ‘크로마플럭스’는 진리체의 흔적이 시간이 지나 데이터가 소멸하며 성질이 변한 힘으로, 각 차원에서 관측되는 초자연현상의 공통 기반으로 작용한다.
@@ -64,7 +64,7 @@ Supernatural phenomenone
 
 ### 초자연적 존재
 
-Supernatural entities
+*Supernatural entities*
 
 초자연적 존재의 발생은 초자연현상의 일종으로, 크로마플럭스와 국지적 법칙 및 현지 데이터가 결합하여 자연발생적으로 생겨난 존재다.
 이들은 발생된 차원을 벗어날 수 있으나, 다른 차원에서 오랜 시간이 지나면 소멸할 위험이 있다.
@@ -72,7 +72,7 @@ Supernatural entities
 
 ## 시간의 흐름
 
-Passage of time
+*Passage of time*
 
 모든 우주의 시간은 사실상 동시에 흐른다.
 진리체에는 시간의 질서가 포함되어 있기 때문이다.
@@ -83,7 +83,7 @@ Passage of time
 
 ## 차원 이동
 
-Universe jump
+*Universe jump*
 
 차원 이동을 위해서는 전용 문인 **포털(Portal)**을 이용해야 한다.
 포털은 초자연현상으로도, 과학 기술로도 생성할 수 있다.
