@@ -18,6 +18,7 @@ nav li {
 
 .portrait {
     width: 100%;
+    max-width: 480px;
 }
 
 /* default.html */

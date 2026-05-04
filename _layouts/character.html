@@ -4,13 +4,23 @@ layout: default
 
 
 <h1>{{ page.title }}</h1>
-
 <p><i>{{ page.charname }}</i> <br> ― {{ page.world }}</p>
+
+<details>
+    <summary>목차</summary>
+    <ul>
+        <li><a href="portrait">이미지</a></li>
+        <li><a href="profile">프로필</a></li>
+        <li><a href="info">소개</a></li>
+        <li><a href="relative">주변 인물</a></li>
+        <li><a href="trivia">여담</a></li>
+    </ul>
+</details>
 
 <hr>
 
-<img src="/universe/assets/img/portraits/{{ page.charname | downcase }}_portrait.png" alt="전신 초상화" class="portrait">
+<img src="/universe/assets/img/portraits/{{ page.charname | downcase }}_portrait.png" alt="전신 초상화" class="portrait" id="portrait">
 
-<h2>프로필</h2>
+<h2 id="profile">프로필</h2>
 
 {{ content }}
