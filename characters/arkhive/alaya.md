@@ -1,12 +1,9 @@
 ---
 layout: character
 title: 아라야
-charname: Alaya
+name: Alaya
 world: 아크하이브
 ---
-
-# 아라야
-*Alaya*
 
 ![전신 초상화](/universe/assets/img/portraits/alaya_portrait.png)
 
