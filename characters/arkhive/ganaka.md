@@ -1,7 +1,7 @@
 ---
 layout: character
 title: 가나카
-name: Ganaka
+charname: Ganaka
 world: 아크하이브
 ---
 

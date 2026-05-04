@@ -1,7 +1,7 @@
 ---
 layout: character
 title: 아라야
-name: Alaya
+charname: Alaya
 world: 아크하이브
 ---
 
