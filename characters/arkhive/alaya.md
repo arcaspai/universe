@@ -5,11 +5,6 @@ name: Alaya
 world: 아크하이브
 ---
 
-![전신 초상화](/universe/assets/img/portraits/alaya_portrait.png)
-
-
-## 프로필
-
 - 소속: 차원 연구소 (여행자)
 - 거주지: 차원 연구소 인근 거리
 - 종족: 사이보그

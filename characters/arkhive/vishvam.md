@@ -1,6 +1,7 @@
 ---
 layout: character
 title: 비슈밤
-charname: Vishvam
+name: Vishvam
 world: 아크하이브
 ---
+

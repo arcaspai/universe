@@ -1,6 +1,7 @@
 ---
 layout: character
 title: 쿠샤그라
-charname: Kushagra
+name: Kushagra
 world: 아크하이브
 ---
+
