@@ -5,7 +5,7 @@ charname: -
 world: -
 ---
 
-## 프로필{#profile}
+## 프로필 {#profile}
 
 - 소속: -
 - 거주지: -
@@ -16,13 +16,13 @@ world: -
 - 싫어하는 것: -
 
 
-## 소개{#info}
+## 소개 {#info}
 
 > “-”
 
 -
 
-## 주변 인물{#relative}
+## 주변 인물 {#relative}
 
 - [ㅁㅁㅁ](./xxx): -
 - [ㅁㅁㅁ](./xxx): -
@@ -30,7 +30,7 @@ world: -
 - [ㅁㅁㅁ](./xxx): -
 
 
-## 여담{trivia}
+## 여담 {#trivia}
 
 - 111
 - 222
