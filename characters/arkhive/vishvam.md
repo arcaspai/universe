@@ -3,18 +3,18 @@ layout: character
 title: 비슈밤
 charname: Vishvam
 world: 아크하이브
+color: "#D5D9E6"
+
+name-ko: "비슈밤"
+name-en: "Vishvam"
+affiliation: "아크하이브 천문대"
+residence: "차원 연구소 인근 거리"
+kind: "인간"
+gender: "남"
+age: "67"
+like: "천문학, 여행"
+hate: "빛 공해"
 ---
-
-## 프로필 {#profile}
-
-- 소속: 아크하이브 천문대
-- 거주지: 차원 연구소 인근 거리
-- 종족: 인간
-- 성별: 남
-- 나이: 67
-- 좋아하는 것: 천문학, 여행
-- 싫어하는 것: 빛 공해
-
 
 ## 소개 {#info}
 

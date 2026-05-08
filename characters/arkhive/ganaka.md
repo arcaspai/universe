@@ -3,19 +3,18 @@ layout: character
 title: 가나카
 charname: Ganaka
 world: 아크하이브
+color: "#FFBCB0"
+
+name-ko: "가나카"
+name-en: "Ganaka"
+affiliation: "아크하이브 천문대"
+residence: "차원 연구소 인근 거리"
+kind: "인간"
+gender: "여"
+age: "20"
+like: "운동, 탐험 이야기"
+hate: "비, 겨울"
 ---
-
-
-## 프로필 {#profile}
-
-- 소속: 아크하이브 천문대
-- 거주지: 차원 연구소 인근 거리
-- 종족: 인간
-- 성별: 여
-- 나이: 20
-- 좋아하는 것: 운동, 탐험 이야기
-- 싫어하는 것: 비, 겨울
-
 
 ## 소개 {#info}
 

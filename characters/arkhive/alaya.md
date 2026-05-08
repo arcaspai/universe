@@ -3,10 +3,22 @@ layout: character
 title: 아라야
 charname: Alaya
 world: 아크하이브
+color: "#FFB4BF"
+
+name-ko: "아라야"
+name-en: "Alaya"
+affiliation: "차원 연구소 (여행자)"
+residence: "차원 연구소 인근 거리"
+kind: "사이보그"
+gender: "여"
+age: "20"
+like: "천문학, 진리체 탐구, 클로버니"
+hate: "철야"
 ---
 
 ## 프로필 {#profile}
 
+- 이름: 아라야 (Alaya)
 - 소속: 차원 연구소 (여행자)
 - 거주지: 차원 연구소 인근 거리
 - 종족: 사이보그

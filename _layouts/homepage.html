@@ -18,6 +18,21 @@
         <link rel="stylesheet" href="/style.css" type="text/css">
         <link rel="stylesheet" href="/universe/assets/css/style.css" type="text/css">
         
+        <style>
+            .universe-header {
+                background-image: url("/universe/assets/img/banner.png");
+            }
+
+            .universe-header h1 {
+                text-align: center;
+                justify-content: center;
+            }
+
+            .universe-main h1 {
+                margin-top: 0;
+            }
+        </style>
+        
         <title>{{ page.title }} - Arcaspai: Universe Guidebook</title>
     </head>
     
@@ -42,7 +57,7 @@
         <header class="universe-header">
         </header>
 
-        <main>
+        <main class="universe-main">
             {{ content }}
         </main>
         

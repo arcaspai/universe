@@ -3,18 +3,18 @@ layout: character
 title: 쿠샤그라
 charname: Kushagra
 world: 아크하이브
+color: "#9EE1A5"
+
+name-ko: "쿠샤그라"
+name-en: "Kushagra"
+affiliation: "차원 연구소 (기록자)"
+residence: "차원 연구소 인근 거리"
+kind: "인간"
+gender: "여"
+age: "21"
+like: "진리체 탐구, 독서, 재즈 음악"
+hate: "어두운 곳"
 ---
-
-## 프로필 {#profile}
-
-- 소속: 차원 연구소 (기록자)
-- 거주지: 차원 연구소 인근 거리
-- 종족: 인간
-- 성별: 여성
-- 나이: 21
-- 좋아하는 것: 진리체 탐구, 독서, 재즈 음악
-- 싫어하는 것: 어두운 곳
-
 
 ## 소개 {#info}
 

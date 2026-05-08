@@ -1,5 +1,3 @@
-/* global */
-
 li {
     margin-left: 2em;
 }
@@ -16,26 +14,9 @@ nav li {
     margin-left: 0;
 }
 
-.portrait {
-    width: 100%;
-    max-width: 480px;
-}
-
 /* default.html */
 
 .docs-header {
     height: 24px;
     background-color: #FCFCFC;
-}
-
-
-/* homepage.html */
-
-.universe-header {
-    background-image: url("/universe/assets/img/banner.png");
-}
-
-.universe-header h1 {
-    text-align: center;
-    justify-content: center;
 }
