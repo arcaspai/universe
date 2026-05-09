@@ -3,7 +3,7 @@ layout: character
 title: 마린
 charname: Marine
 world: 스텔라마레
-color: "#"
+color: "#6992CF"
 
 name-ko: "마린"
 name-en: "Marine"
