@@ -16,7 +16,9 @@ title: 캐릭터
 - [키호놀란드](#chihonoland)
 
 
-## <a id="arkhive"></a>아크하이브
+## 아크하이브 {#arkhive}
+
+{% include_relative arkhive/index.md %}
 
 - [아라야](./arkhive/alaya)
 - [가나카](./arkhive/ganaka)
@@ -27,7 +29,9 @@ title: 캐릭터
 - [사츠키](./arkhive/satsuki)
 
 
-## <a id="stellamare"></a>스텔라마레
+## 스텔라마레 {#stellamare}
+
+{% include_relative stellamare/index.md %}
 
 - [아스트라](./stellamare/astra)
 - [마린](./stellamare/marine)
@@ -38,39 +42,48 @@ title: 캐릭터
 - [샤를로트]
 
 
-## <a id="primaris"></a>프리마리스
+## 프리마리스 {#primaris}
+
+{% include_relative primaris/index.md %}
 
 - [시엘 누아르](./primaris/ciel)
 - [제트 누아르](./primaris/zett)
 - [로빈 로즈쿼츠](./primaris/robin)
 
 
-## <a id="zodiafiled"></a>조디아필드
+## 조디아필드 {#zodiafiled}
+
+{% include_relative zodiafiled/index.md %}
 
 - [패트릭 바나스](./zodiafiled/patrick)
 - [로저먼드 바나스](./zodiafiled/rosamund)
 
 
-## <a id="negative-existence"></a>무한계
+## 무한계 {#negative-existence}
 
+{% include_relative negative-existence/index.md %}
 - 추가예정
 
 
-## <a id="daramoe"></a>다라뫼
+## 다라뫼 {#daramoe}
 
+{% include_relative daramoe/index.md %}
 - 추가예정
 
 
-## <a id="shiromaho"></a>시로마호
+## 시로마호 {#shiromaho}
 
+{% include_relative shiromaho/index.md %}
 - 추가예정
 
 
-## <a id="mundawn"></a>먼동
+## 먼동 {#mundawn}
 
+{% include_relative mundawn/index.md %}
 - 추가예정
 
 
-## <a id="chihonoland"></a>키호놀란드
+## 키호놀란드 {#chihonoland}
 
+{% include_relative chihonoland/index.md %}
 - 추가예정

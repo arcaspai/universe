@@ -9,6 +9,11 @@ The public universe guidebook of Arcaspai Project(아르카스페이 프로젝�
 
 # Credit
 
+## Resources
+- Official Docs
+- redder0125/jekyllpractice
+- AI Assistants (Claude, Gemini)
+
 ## Fonts
 
 - Elice Digital Baeum (https://elice.io/ko/elice/brand#elice_digital_baeum)
