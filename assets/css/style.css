@@ -14,9 +14,19 @@ nav li {
     margin-left: 0;
 }
 
+details {
+    margin: 1em 0;
+}
+
 /* default.html */
 
 .docs-header {
     height: 24px;
     background-color: #FCFCFC;
+}
+
+
+.flexer {
+    display: flexbox;
+    justify-content: start;
 }
