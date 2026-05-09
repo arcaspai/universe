@@ -17,6 +17,7 @@ hate: "철야"
 ---
 
 <div class="flexer">
+
 ## 소개 {#info}
 
 > “저랑 같이 별 보러 가실래요?”
@@ -28,32 +29,47 @@ hate: "철야"
 위험한 일은 피할 것 같지만 자신이 원하는 게 있다면 반드시 이뤄내고자 하는 타입이다.
 기본적으로 사람을 친절하게 대하지만, 목적이 있으면 유독 더 친절해 보인다.
 특유의 나긋나긋한 존댓말을 쓴다.
+
 </div>
 
 ## 주변 인물 {#relative}
-
-- [비슈밤](./vishvam): 할아버지. 지금은 은퇴하고 천문 관측을 하고 있지만 여전히 존경하는 사람.
-- [가나카](./ganaka): 사촌 언니. 가끔씩 연락하며 지낸다.
-- [쿠샤그라](./kushagra): 소꿉친구. 업무가 달라서 어릴 때만큼 자주 놀지는 못한다.
-- [소희](./sohee): 동료. 적당히 알고 지내는 사이.
 
 <table class="relative-table">
     <tr>
         <td class="table-title">
             <a href="./vishvam">
-                <img src="/universe/assets/img/icons/aaa_icon.png" alt="aaa 아이콘">
+                ![비슈밤 아이콘](/universe/assets/img/icons/vishvam_icon.png)
                 <br>비슈밤
             </a>
         </td>
         <td>할아버지. 지금은 은퇴하고 천문 관측을 하고 있지만 여전히 존경하는 사람.</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td class="table-title">
+            <a href="./ganaka">
+                ![가나카 아이콘](/universe/assets/img/icons/ganaka_icon.png)
+                <br>가나카
+            </a>
+        </td>
+        <td>사촌 언니. 가끔씩 연락하며 지낸다.</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td class="table-title">
+            <a href="./kushagra">
+                ![쿠샤그라 아이콘](/universe/assets/img/icons/kushagea_icon.png)
+                <br>쿠샤그라
+            </a>
+        </td>
+        <td>소꿉친구. 업무가 달라서 어릴 때만큼 자주 놀지는 못한다.</td>
+    </tr>
+    <tr>
+        <td class="table-title">
+            <a href="./sohee">
+                ![소희 아이콘](/universe/assets/img/icons/sohee_icon.png)
+                <br>소희
+            </a>
+        </td>
+        <td>동료. 적당히 알고 지내는 사이.</td>
     </tr>
 </table>
 

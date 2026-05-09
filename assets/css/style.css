@@ -18,6 +18,10 @@ details {
     margin: 1em 0;
 }
 
+table {
+    margin: 1em auto;
+}
+
 /* default.html */
 
 .docs-header {
