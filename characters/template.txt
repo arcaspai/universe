@@ -29,17 +29,9 @@ hate: "-"
 
 ## 주변 인물 {#relative}
 
-<table class="relative-table">
-    <tr>
-        <td class="table-title">
-            <a href="./vishvam">
-                ![비슈밤 아이콘](/universe/assets/img/icons/vishvam_icon.png)
-                <br>비슈밤
-            </a>
-        </td>
-        <td>할아버지. 지금은 은퇴하고 천문 관측을 하고 있지만 여전히 존경하는 사람.</td>
-    </tr>
-</table>
+| 인물 | 관계 |
+|:---:|:---|
+| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
 
 
 ## 여담 {#trivia}
