@@ -22,15 +22,14 @@ table {
     margin: 1em auto;
 }
 
+.flexer {
+    display: flexbox;
+    justify-content: space-around;
+}
+
 /* default.html */
 
 .docs-header {
     height: 24px;
     background-color: #FCFCFC;
-}
-
-
-.flexer {
-    display: flexbox;
-    justify-content: start;
 }
