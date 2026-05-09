@@ -30,7 +30,6 @@ td {
     display: flexbox;
     justify-content: space-around;
 
-    width: 100%;
     max-width: 420px;
 }
 
