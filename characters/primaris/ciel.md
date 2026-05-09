@@ -1,12 +1,12 @@
 ---
 layout: character
-title: -
-charname: -
-world: -
+title: 시엘
+charname: Ciel
+world: 프리마리스
 color: "#"
 
-name-ko: "-"
-name-en: "-"
+name-ko: "시엘 누아르"
+name-en: "Ciel Noire"
 affiliation: "-"
 residence: "-"
 kind: "-"
@@ -16,21 +16,12 @@ like: "-"
 hate: "-"
 ---
 
-<div class="flexer">
+## 소개 {#info}
 
-<h2 id="info">소개</h2>
+> “-”
 
-<blockquote>“-”</blockquote>
-
-<p>
 -
-</p>
 
-<p>
--
-</p>
-
-</div>
 
 
 ## 주변 인물 {#relative}

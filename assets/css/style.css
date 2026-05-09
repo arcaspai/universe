@@ -8,7 +8,6 @@ hr {
 
 main {
     margin: 24px auto;
-    display: flexbox;
 }
 
 nav li {
@@ -27,11 +26,6 @@ td {
     padding: 2px;
 }
 
-.flexer {
-    justify-content: space-around;
-
-    max-width: 380px;
-}
 
 /* default.html */
 

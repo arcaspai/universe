@@ -1,12 +1,12 @@
 ---
 layout: character
-title: 제트
-charname: Zett
+title: 로빈
+charname: Robin
 world: 프리마리스
 color: "#"
 
-name-ko: "제트 누아르"
-name-en: "Zett Noire"
+name-ko: "로빈 로즈쿼츠"
+name-en: "Robin Rosequartz"
 affiliation: "-"
 residence: "-"
 kind: "-"

@@ -1,8 +1,8 @@
 ---
 layout: character
-title: -
-charname: -
-world: -
+title: 마린
+charname: Marine
+world: 스텔라마레
 color: "#"
 
 name-ko: "-"
@@ -16,21 +16,12 @@ like: "-"
 hate: "-"
 ---
 
-<div class="flexer">
+## 소개 {#info}
 
-<h2 id="info">소개</h2>
+> “-”
 
-<blockquote>“-”</blockquote>
-
-<p>
 -
-</p>
 
-<p>
--
-</p>
-
-</div>
 
 
 ## 주변 인물 {#relative}

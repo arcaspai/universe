@@ -1,47 +1,45 @@
 ---
 layout: character
-title: -
-charname: -
-world: -
-color: "#"
+title: 아스트라
+charname: Astra
+world: 스텔라마레
+color: "#9199C4"
 
-name-ko: "-"
-name-en: "-"
+name-ko: "아스트라"
+name-en: "Astra"
 affiliation: "-"
-residence: "-"
-kind: "-"
-gender: "-"
-age: "-"
-like: "-"
-hate: "-"
+residence: "바닷가 등대 옆 오두막"
+kind: "인간"
+gender: "여"
+age: "11"
+like: "바닷가 산책, 오르골"
+hate: "안개"
 ---
 
-<div class="flexer">
+## 소개 {#info}
 
-<h2 id="info">소개</h2>
+> “괜찮아. 별수정이 길을 밝혀줄 거야.”
 
-<blockquote>“-”</blockquote>
+꼬마 등대지기.
+아직은 등대지기 일이 마냥 서툴다.
 
-<p>
--
-</p>
-
-<p>
--
-</p>
-
-</div>
+의젓하고 상냥한 아이.
+아직 일은 잘 못하기 때문에 전임 등대지기의 책에 의지하고 있지만 언젠간 어엿한 등대지기가 되어 마을 사람들과 행복하게 사는 게 꿈이다.
+웬만한 일에는 화를 내지 않으며, 인내심을 갖고 해결을 위해 최선을 다한다.
+은근히 멋있어 보이고 싶어하는 면도 있다.
 
 
 ## 주변 인물 {#relative}
 
 | 인물 | 관계 |
 |:---:|:---|
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
+| [![마린 아이콘](/universe/assets/img/icons/marine_icon.png)<br>마린](./marine) | 친구. 같이 바닷가를 걸어다니다보면 마음이 편해진다. |
+| [![샤를로트 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>샤를로트](./charlotte) | 할머니. 등대랑 가장 가까운 곳에 살고 있어서 같이 지낸다. |
+| [![바르톨로메오 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>바르톨로메오](./bartolomeo) | 이웃 할아버지. 젊었을 적 바다에 나갔던 재밌는 얘기를 많이 들려준다. |
 
 
 ## 여담 {#trivia}
 
-- 111
-- 222
-- 333
+- 등대에서 할 일이 없을 때는 전임 등대지기의 책을 다시 읽거나 오르골에서 나오는 음악을 듣는다. 날이 맑으면 바닷가에서 산책을 하기도 한다.
+- 사실 망토랑 지팡이에는 별 기능이 없다. 그럼에도 단순히 갖고 다니면 신비로워 보인다는 이유로 늘상 가지고 다닌다.
+- 만날 수 있다면 전임 등대지기를 만나서 왜 자신이 등대 별수정의 선택을 받았는지 이유를 들어보고 싶어한다.
