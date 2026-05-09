@@ -3,32 +3,41 @@ layout: character
 title: -
 charname: -
 world: -
+color: "#"
+
+name-ko: "-"
+name-en: "-"
+affiliation: "-"
+residence: "-"
+kind: "-"
+gender: "-"
+age: "-"
+like: "-"
+hate: "-"
 ---
 
-## 프로필 {#profile}
+<div class="flexer">
 
-- 이름: - (-)
-- 소속: -
-- 거주지: -
-- 종족: -
-- 성별: -
-- 나이: -
-- 좋아하는 것: -
-- 싫어하는 것: -
+<h2 id="info">소개</h2>
 
+<blockquote>“-”</blockquote>
 
-## 소개 {#info}
-
-> “-”
-
+<p>
 -
+</p>
+
+<p>
+-
+</p>
+
+</div>
+
 
 ## 주변 인물 {#relative}
 
-- [ㅁㅁㅁ](./xxx): -
-- [ㅁㅁㅁ](./xxx): -
-- [ㅁㅁㅁ](./xxx): -
-- [ㅁㅁㅁ](./xxx): -
+| 인물 | 관계 |
+|:---:|:---|
+| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
 
 
 ## 여담 {#trivia}
