@@ -3,20 +3,26 @@ layout: default
 ---
 
 <style>
-    .profile-table {
-        width: 100%;
-        max-width: 320px;
+    table {
+        margin: 1em auto;
 
-        border: 4px solid {{ page.color | default: "#9088ff" }};
-        border-radius: 4px;
-    }
-
-    .relative-table {
         width: 100%;
         max-width: 480px;
 
         border: 4px solid {{ page.color | default: "#9088ff" }};
         border-radius: 4px;
+    }
+
+    table a {
+        color: #2f333d;
+    }
+    
+    table img {
+        width: 120px;
+    }
+
+    .profile-table {
+        max-width: 320px;
     }
 
     .table-title {
@@ -33,22 +39,10 @@ layout: default
         color: {{ page.color | default: "#9088ff" }};
     }
 
-    .portrait, .icon {
+    .portrait {
         width: 100%;
 
         margin: auto;
-    }
-
-    .relative-table .table-title {
-        width: 15%;
-    }
-
-    .relative-table img {
-        width: 120px;
-    }
-
-    .relative-table a {
-        color: #2f333d;
     }
 
 </style>
