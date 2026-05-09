@@ -22,12 +22,16 @@ table {
     margin: 1em auto;
 }
 
+td {
+    padding: 2px;
+}
+
 .flexer {
     display: flexbox;
     justify-content: space-around;
 
     width: 100%;
-    max-width: 480px;
+    max-width: 420px;
 }
 
 /* default.html */

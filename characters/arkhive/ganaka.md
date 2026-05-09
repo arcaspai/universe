@@ -30,8 +30,10 @@ hate: "비, 겨울"
 
 ## 주변 인물 {#relative}
 
-- [비슈밤](./vishvam): 할아버지. 덕분에 특별히 조수로 일을 하고 있다.
-- [아라야](./alaya): 사촌 동생. 가끔씩 연락할 때마다 재밌는 얘기를 들려준다.
+| 인물 | 관계 |
+|:---:|:---|
+| [![비슈밤 아이콘](/universe/assets/img/icons/vishvam_icon.png)<br>비슈밤](./vishvam) | 할아버지. 덕분에 특별히 조수로 일을 하고 있다. |
+| [![아라야 아이콘](/universe/assets/img/icons/alaya_icon.png)<br>아라야](./alaya) | 사촌 동생. 가끔씩 연락할 때마다 재밌는 얘기를 들려준다. |
 
 
 ## 여담 {#trivia}

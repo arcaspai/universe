@@ -45,6 +45,7 @@ hate: "철야"
 | [![쿠샤그라 아이콘](/universe/assets/img/icons/kushagra_icon.png)<br>쿠샤그라](./kushagra) | 소꿉친구. 업무가 달라서 어릴 때만큼 자주 놀지는 못한다. |
 | [![소희 아이콘](/universe/assets/img/icons/sohee_icon.png)<br>소희](./sohee) | 동료. 적당히 알고 지내는 사이. |
 
+
 ## 여담 {#trivia}
 
 - 여행가방에는 차원 이동 장치, 디지털 카메라, 호신용 삼단봉, 예비 배터리 등이 들어있다. 망원경은 공간이 없어서 어깨에 걸치고 다닌다.
