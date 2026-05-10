@@ -51,12 +51,12 @@ title: 캐릭터
 - [로빈 로즈쿼츠](./primaris/robin)
 
 
-## 조디아필드 {#zodiafiled}
+## 조디아필드 {#zodiafield}
 
-{% include charlists/zodiafiled.md %}
+{% include charlists/zodiafield.md %}
 
-- [패트릭 바나스](./zodiafiled/patrick)
-- [로저먼드 바나스](./zodiafiled/rosamund)
+- [패트릭 바나스](./zodiafield/patrick)
+- [로저먼드 바나스](./zodiafield/rosamund)
 
 
 ## 무한계 {#negative-existence}
