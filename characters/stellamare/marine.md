@@ -45,4 +45,4 @@ hate: "수영"
 
 ## 마린의 인격 {#peronalities}
 
-{% include marine-personlaities.html %}
+{% include marine-personalities.md %}
