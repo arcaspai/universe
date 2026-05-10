@@ -22,6 +22,10 @@ table {
     margin: 1em auto;
 }
 
+table img {
+    width: 120px;
+}
+
 td {
     padding: 2px;
 }
