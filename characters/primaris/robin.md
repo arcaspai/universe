@@ -3,7 +3,7 @@ layout: character
 title: 로빈
 charname: Robin
 world: 프리마리스
-color: "#"
+color: "#FFC7C5"
 
 name-ko: "로빈 로즈쿼츠"
 name-en: "Robin Rosequartz"

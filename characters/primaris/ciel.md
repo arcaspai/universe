@@ -3,7 +3,7 @@ layout: character
 title: 시엘
 charname: Ciel
 world: 프리마리스
-color: "#"
+color: "#95C7FF"
 
 name-ko: "시엘 누아르"
 name-en: "Ciel Noire"

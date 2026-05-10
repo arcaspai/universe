@@ -3,7 +3,7 @@ layout: character
 title: 제트
 charname: Zett
 world: 프리마리스
-color: "#"
+color: "#95C7FF"
 
 name-ko: "제트 누아르"
 name-en: "Zett Noire"
