@@ -18,7 +18,7 @@ title: 캐릭터
 
 ## 아크하이브 {#arkhive}
 
-{% include_relative ./arkhive/index.md %}
+{% include charlists/arkhive.html %}
 
 - [아라야](./arkhive/alaya)
 - [가나카](./arkhive/ganaka)
@@ -31,7 +31,7 @@ title: 캐릭터
 
 ## 스텔라마레 {#stellamare}
 
-{% include_relative ./stellamare/index.md %}
+{% include charlists/stellamare.html %}
 
 - [아스트라](./stellamare/astra)
 - [마린](./stellamare/marine)
@@ -44,7 +44,7 @@ title: 캐릭터
 
 ## 프리마리스 {#primaris}
 
-{% include_relative ./primaris/index.md %}
+{% include charlists/primaris.html %}
 
 - [시엘 누아르](./primaris/ciel)
 - [제트 누아르](./primaris/zett)
@@ -53,7 +53,7 @@ title: 캐릭터
 
 ## 조디아필드 {#zodiafiled}
 
-{% include_relative ./zodiafiled/index.md %}
+{% include charlists/zodiafiled.html %}
 
 - [패트릭 바나스](./zodiafiled/patrick)
 - [로저먼드 바나스](./zodiafiled/rosamund)
@@ -61,29 +61,29 @@ title: 캐릭터
 
 ## 무한계 {#negative-existence}
 
-{% include_relative ./negative-existence/index.md %}
+{% include charlists/negative-existence.html %}
 - 추가예정
 
 
 ## 다라뫼 {#daramoe}
 
-{% include_relative ./daramoe/index.md %}
+{% include charlists/daramoe.html %}
 - 추가예정
 
 
 ## 시로마호 {#shiromaho}
 
-{% include_relative ./shiromaho/index.md %}
+{% include charlists/shiromaho.html %}
 - 추가예정
 
 
 ## 먼동 {#mundawn}
 
-{% include_relative ./mundawn/index.md %}
+{% include charlists/mundawn.html %}
 - 추가예정
 
 
 ## 키호놀란드 {#chihonoland}
 
-{% include_relative ./chihonoland/index.md %}
+{% include charlists/chihonoland.html %}
 - 추가예정
