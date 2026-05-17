@@ -1,7 +1,4 @@
-<table>
-    <tr>
-        <th colspan="5">세계관이름 / universe</th>
-    </tr>
+<table class="characters-list">
     <tr>
         <td>
             <a href="/universe/characters/aaaa/xxx">

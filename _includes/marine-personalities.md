@@ -1,4 +1,4 @@
-<tabel>
+<tabel class="characters-list">
     <tr>
         <td>
             <a href="./marine">

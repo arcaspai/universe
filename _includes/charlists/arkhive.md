@@ -1,7 +1,4 @@
-<table>
-    <tr>
-        <th colspan="5">아크하이브 / Arkhive</th>
-    </tr>
+<table class="characters-list">
     <tr>
         <td>
             <a href="/universe/characters/arkhive/alaya">
