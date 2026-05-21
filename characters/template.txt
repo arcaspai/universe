@@ -3,7 +3,7 @@ layout: character
 title: -
 charname: -
 world: -
-color: "#"
+color: "#9088ff"
 
 name-ko: "-"
 name-en: "-"

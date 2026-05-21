@@ -3,7 +3,7 @@ layout: character
 title: 패트릭
 charname: Patrick
 world: 조디아필드
-color: "#123456"
+color: "#9088ff"
 
 name-ko: "패트릭 바나스"
 name-en: "Patrick Vanasse"
