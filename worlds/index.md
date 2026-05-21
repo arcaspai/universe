@@ -6,7 +6,7 @@ title: 세계관
 # 세계관
 
 - [아크하이브](./arkhive)
-- [스텔라마레](./sterallamare)
+- [스텔라마레](./stellamare)
 - [프리마리스](./primaris)
 - [조디아필드](./zodiafiled)
 - [무한계](./negative-existence)
