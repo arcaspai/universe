@@ -14,8 +14,13 @@ nav li {
     margin-left: 0;
 }
 
+
 details {
     margin: 1em 0;
+}
+
+nav details {
+    margin: 0;
 }
 
 table {
