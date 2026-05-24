@@ -28,6 +28,8 @@ table {
 
     border: 4px solid #9088ff;
     border-radius: 4px;
+
+    overflow: auto;
 }
 
 table img {

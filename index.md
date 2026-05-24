@@ -3,6 +3,25 @@ layout: homepage
 title: 홈
 ---
 
+<style>
+    @media screen and (orientation: landscape) {
+        .buttons {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+    }
+
+    @media screen and (orientation: portrait) {
+        .buttons {
+            flex-direction: column;
+        }
+    }
+    
+    .buttons {
+        display: inline-flex;
+    }
+</style>
+
 현재 페이지 이전 중입니다. (2026년 6월 완료 예정)
 
 # ARCASPAI: Universe Guidebook
@@ -11,14 +30,23 @@ title: 홈
 
 - [구 사이트](https://arcaspai.notion.site/ARCASPAI-Universe-Guidebook-2978e3302cae817fa3c9eb88d7c00ce8)는 페이지 이전 완료로부터 한 달 후에 비공개로 전환됩니다.
 
-## 전역 법칙
-
-| [전역 법칙](/universe/global-law) |
-
-## 세계관
-
-| [세계관](/universe/worlds) |
-
-## 캐릭터
-
-| [캐릭터](/universe/characters) |
+<div class="buttons">
+    <a href="/universe/global-law">
+        <button>
+            <img src="/universe/assets/img/buttons/home-globallaw.png"><br>
+            전역 법칙
+        </button>
+    </a>
+    <a href="/universe/worlds">
+        <button>
+            <img src="/universe/assets/img/buttons/home-worlds.png"><br>
+            세계관
+        </button>
+    </a>
+    <a href="/universe/characters">
+        <button>
+            <img src="/universe/assets/img/buttons/home-characters.png"><br>
+            캐릭터
+        </button>
+    </a>
+</div>
