@@ -39,6 +39,8 @@ title: 홈
         height: 160px;
     
         background-color: #fcfcfc;
+        background-size: cover;
+        background-position: center;
 
         border: 4px solid #9088ff;
         border-radius: 8px;
@@ -46,18 +48,14 @@ title: 홈
 
     .home-globallaw {
         background-image: url("assets/img/buttons/home-globallaw.png");
-        background-size: cover;
-        background-position: center;
     }
 
     .home-worlds {
         background-image: url("assets/img/buttons/home-worlds.png");
-        background-size: cover;
     }
 
     .home-characters {
         background-image: url("assets/img/buttons/home-characters.png");
-        background-size: cover;
     }
 </style>
 

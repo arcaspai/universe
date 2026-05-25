@@ -50,6 +50,10 @@ td {
 
 /* default.html */
 
+.nav-logo img {
+    width: 120px;
+}
+
 .docs-header {
     height: 24px;
     background-color: #FCFCFC;
