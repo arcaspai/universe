@@ -1,3 +1,7 @@
+img {
+    width: 100%;
+}
+
 li {
     margin-left: 2em;
 }
@@ -57,15 +61,17 @@ td {
 @media screen and (orientation: landscape) {
     .characters-list {
         max-width: 100%;
-        overflow: auto;
     }
 }
 
 @media screen and (orientation: portrait) {
     .characters-list {
         max-width: 280px;
-        overflow: scroll;
     }
+}
+
+.characters-list-frame {
+    overflow: auto;
 }
 
 .characters-list {

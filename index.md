@@ -22,6 +22,7 @@ title: 홈
 
         .buttons button {
             width: 100%;
+            margin: 6px auto;
         }
     }
     
@@ -46,6 +47,7 @@ title: 홈
     .home-globallaw {
         background-image: url("assets/img/buttons/home-globallaw.png");
         background-size: cover;
+        background-position: center;
     }
 
     .home-worlds {
