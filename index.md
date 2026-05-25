@@ -66,6 +66,8 @@ title: 홈
 **아르카스페이: 세계관 가이드북**에 오신 것을 환영합니다.
 
 - [구 사이트](https://arcaspai.notion.site/ARCASPAI-Universe-Guidebook-2978e3302cae817fa3c9eb88d7c00ce8)는 페이지 이전 완료로부터 한 달 후에 비공개로 전환됩니다.
+    - 페이지 이전 완료: <time datetime="2026-05-26">2026년 5월 26일</time>
+    - 구 사이트 비공개 전환(예정): <time datetime="2026-06-26">2026년 6월 26일</time>
 
 <div class="buttons">
     <a href="/universe/global-law">
