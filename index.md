@@ -59,8 +59,6 @@ title: 홈
     }
 </style>
 
-현재 페이지 이전 중입니다. (2026년 6월 완료 예정)
-
 # ARCASPAI: Universe Guidebook
 
 **아르카스페이: 세계관 가이드북**에 오신 것을 환영합니다.
