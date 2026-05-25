@@ -18,13 +18,16 @@ title: 홈
     }
     
     .buttons {
+        width: 100%;
         display: inline-flex;
     }
 
     .buttons button {
+        font-family: "Galmuri7", "GalmuriMono7", "Noto Sans", "Twemoji Mozilla", "Noto Emoji", Arial, Helvetica, sans-serif;
+
         width: 240px;
         height: 160px;
-
+    
         background: #fcfcfc;
 
         border: 4px solid #9088ff;
@@ -32,15 +35,15 @@ title: 홈
     }
 
     .home-globallaw {
-        background-image: url("/universe/assets/img/buttons/home-globallaw.png");
+        background-image: url("./assets/img/buttons/home-globallaw.png");
     }
 
     .home-worlds {
-        background-image: url("/universe/assets/img/buttons/home-worlds.png");
+        background-image: url("./assets/img/buttons/home-worlds.png");
     }
 
     .home-characters {
-        background-image: url("/universe/assets/img/buttons/home-characters.png");
+        background-image: url("./assets/img/buttons/home-characters.png");
     }
 </style>
 
@@ -52,7 +55,7 @@ title: 홈
 
 - [구 사이트](https://arcaspai.notion.site/ARCASPAI-Universe-Guidebook-2978e3302cae817fa3c9eb88d7c00ce8)는 페이지 이전 완료로부터 한 달 후에 비공개로 전환됩니다.
 
-<div class="buttons galmuri">
+<div class="buttons">
     <a href="/universe/global-law">
         <button class="home-globallaw">
             전역 법칙
