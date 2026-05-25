@@ -12,6 +12,7 @@ The public universe guidebook of Arcaspai Project(아르카스페이 프로젝�
 ## Resources
 - [Official Docs](https://jekyllrb.com/)
 - [redder0125/jekyllpractice](https://github.com/redder0125/jekyllpractice)
+- [arcaspai/arcaspai.github.io](https://github.com/arcaspai/arcaspai.github.io)(I retrieved some HTML and CSS elements from the parent page.)
 - AI Assistants (Claude, Gemini)
 
 ## Fonts
