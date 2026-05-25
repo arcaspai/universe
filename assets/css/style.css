@@ -14,7 +14,6 @@ nav li {
     margin-left: 0;
 }
 
-
 details {
     margin: 1em 0;
 }
@@ -28,8 +27,6 @@ table {
 
     border: 4px solid #9088ff;
     border-radius: 4px;
-
-    overflow: auto;
 }
 
 table img {
@@ -54,7 +51,22 @@ td {
     background-color: #FCFCFC;
 }
 
+
 /* character.md */
+
+@media screen and (orientation: landscape) {
+    .characters-list {
+        max-width: 100%;
+        overflow: auto;
+    }
+}
+
+@media screen and (orientation: portrait) {
+    .characters-list {
+        max-width: 280px;
+        overflow: scroll;
+    }
+}
 
 .characters-list {
     text-align: center;

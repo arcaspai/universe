@@ -9,41 +9,53 @@ title: 홈
             flex-direction: row;
             justify-content: space-between;
         }
+        
+        .buttons button {
+            width: 240px;
+        }
     }
 
     @media screen and (orientation: portrait) {
         .buttons {
             flex-direction: column;
         }
+
+        .buttons button {
+            width: 100%;
+        }
     }
     
     .buttons {
-        width: 100%;
         display: inline-flex;
+        width: 100%;
+
+        margin-top: 24px;
     }
 
     .buttons button {
         font-family: "Galmuri7", "GalmuriMono7", "Noto Sans", "Twemoji Mozilla", "Noto Emoji", Arial, Helvetica, sans-serif;
 
-        width: 240px;
         height: 160px;
     
-        background: #fcfcfc;
+        background-color: #fcfcfc;
 
         border: 4px solid #9088ff;
         border-radius: 8px;
     }
 
     .home-globallaw {
-        background-image: url("./assets/img/buttons/home-globallaw.png");
+        background-image: url("assets/img/buttons/home-globallaw.png");
+        background-size: cover;
     }
 
     .home-worlds {
-        background-image: url("./assets/img/buttons/home-worlds.png");
+        background-image: url("assets/img/buttons/home-worlds.png");
+        background-size: cover;
     }
 
     .home-characters {
-        background-image: url("./assets/img/buttons/home-characters.png");
+        background-image: url("assets/img/buttons/home-characters.png");
+        background-size: cover;
     }
 </style>
 
