@@ -20,6 +20,28 @@ title: 홈
     .buttons {
         display: inline-flex;
     }
+
+    .buttons button {
+        width: 240px;
+        height: 160px;
+
+        background: #fcfcfc;
+
+        border: 4px solid #9088ff;
+        border-radius: 8px;
+    }
+
+    .home-globallaw {
+        background-image: url("/universe/assets/img/buttons/home-globallaw.png");
+    }
+
+    .home-worlds {
+        background-image: url("/universe/assets/img/buttons/home-worlds.png");
+    }
+
+    .home-characters {
+        background-image: url("/universe/assets/img/buttons/home-characters.png");
+    }
 </style>
 
 현재 페이지 이전 중입니다. (2026년 6월 완료 예정)
@@ -30,22 +52,19 @@ title: 홈
 
 - [구 사이트](https://arcaspai.notion.site/ARCASPAI-Universe-Guidebook-2978e3302cae817fa3c9eb88d7c00ce8)는 페이지 이전 완료로부터 한 달 후에 비공개로 전환됩니다.
 
-<div class="buttons">
+<div class="buttons galmuri">
     <a href="/universe/global-law">
-        <button>
-            <img src="/universe/assets/img/buttons/home-globallaw.png"><br>
+        <button class="home-globallaw">
             전역 법칙
         </button>
     </a>
     <a href="/universe/worlds">
-        <button>
-            <img src="/universe/assets/img/buttons/home-worlds.png"><br>
+        <button class="home-worlds">
             세계관
         </button>
     </a>
     <a href="/universe/characters">
-        <button>
-            <img src="/universe/assets/img/buttons/home-characters.png"><br>
+        <button class="home-characters">
             캐릭터
         </button>
     </a>
