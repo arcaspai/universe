@@ -3,7 +3,7 @@ layout: character
 title: 로저먼드
 charname: Rosamund
 world: 조디아필드
-color: "#9088ff"
+color: "#C05B58"
 
 name-ko: "로저먼드 “로지” 바나스"
 name-en: "Rosamund “Rosie” Vanasse"

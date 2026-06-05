@@ -3,7 +3,7 @@ layout: character
 title: 패트릭
 charname: Patrick
 world: 조디아필드
-color: "#9088ff"
+color: "#C05B58"
 
 name-ko: "패트릭 바나스"
 name-en: "Patrick Vanasse"
@@ -11,33 +11,35 @@ affiliation: "셸리아크 자경단"
 residence: "셸리아크 3구역"
 kind: "인간"
 gender: "남"
-age: "-"
-like: "-"
-hate: "-"
+age: "19"
+like: "오토바이, 고기"
+hate: "밖에 못 나가는 것"
 ---
-
-작성예정;;;
 
 ## 소개 {#info}
 
-> “-”
+> “이게 셸리아크의 방식이야.”
 
--
+셸리아크의 자경단원. 셸리아크 3구역에서 활동하고 있다.
+
+평소에는 호탕하고 쾌활한 모습을 보이지만 일을 하는 동안은 굉장히 진지하게 임한다.
+아닌 척 하면서도 은근히 남들을 챙겨주며, 칭찬을 받으면 겉으로는 티를 안 내지만 속으로는 굉장히 쑥스러워한다.
+친한 사람들에게는 살짝 장난을 치기도 한다.
 
 
 ## 주변 인물 {#relative}
 
 | 인물 | 관계 |
 |:---:|:---|
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
-| [![xxx 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>xxx](./xxx) | - |
+| [![로저먼드 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>로저먼드](./rosamund) | 동생. 매일같이 사소한 일로 티격태격하지만 남들에게 당하는 꼴은 못 본다. |
+| [![베르너 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>베르너](./werner) | 이웃. 오토바이 수리를 종종 맡기고는 한다. |
+| [![탄탈 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>탄탈](./tantal) | 이웃. 일에는 굉장히 도움이 되지만 사적으로 친해지고 싶지는 않다. |
+| [![론리 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>론리](./ronly) | 친구(?). 도시에서 온 좀 귀찮은 손님이다. |
 
 
 ## 여담 {#trivia}
 
-- 111
-- 222
-- 333
+- 은근히 도벽이 있다. 물론 본인은 어린 시절 일상적으로 도둑질을 했던 것에 비하면 많이 나아진 것이라고 주장한다.
+- 살면서 먹어본 고기로는 콩고기나 배양육 같은 인조 고기가 전부다. 그마저도 자주 먹을 수 있는 음식은 아니다.
+- 무기 수리는 주로 로저먼드에게 맡긴다. 직접 만든거니 가장 잘 알고 있을거라고.
+- 자경단원 옷을 입은 상태로 헬멧을 쓰면 평소보다 장난스럽게 행동한다. 물론 헬멧을 벗었을 때 그것과 관련된 얘기를 하면 부끄러워한다.

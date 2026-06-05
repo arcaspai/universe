@@ -3,7 +3,7 @@
         <tr>
             <td>
                 <a href="/universe/characters/zodiafield/patrick">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="패트릭 아이콘"><br>패트릭
+                    <img src="/universe/assets/img/icons/patrick_icon.png" alt="패트릭 아이콘"><br>패트릭
                 </a>
             </td>
             <td>
