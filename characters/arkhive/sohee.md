@@ -3,7 +3,7 @@ layout: character
 title: 소희
 charname: Sohee
 world: 아크하이브
-color: "#FFB1D5"
+color: "#ffb1d5"
 
 name-ko: "소희"
 name-en: "Sohee"
