@@ -23,7 +23,7 @@
             </td>
             <td>
                 <a href="/universe/characters/arkhive/sohee">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="소희 아이콘"><br>소희
+                    <img src="/universe/assets/img/icons/sohee_icon.png" alt="소희 아이콘"><br>소희
                 </a>
             </td>
         </tr>

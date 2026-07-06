@@ -29,13 +29,13 @@
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/zodiafield/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/zodiafield/ronly">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="론리 아이콘"><br>론리
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/zodiafield/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/zodiafield/canna">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="카나 아이콘"><br>카나
                 </a>
             </td>
             <td>

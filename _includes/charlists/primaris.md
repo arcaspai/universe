@@ -83,28 +83,28 @@
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/primaris/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/primaris/artisti">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="아티스티 아이콘"><br>아티스티
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/primaris/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/primaris/anix">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="아닉스 아이콘"><br>아닉스
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/primaris/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/primaris/mirai">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="미라이 아이콘"><br>미라이
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/primaris/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/primaris/lunie">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="루니에 아이콘"><br>루니에
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/primaris/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/primaris/wisdom">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="위즈덤 아이콘"><br>위즈덤
                 </a>
             </td>
         </tr>

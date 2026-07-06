@@ -66,72 +66,18 @@
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/shiromaho/midori">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="미도리 아이콘"><br>미도리
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/shiromaho/ken">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="켄 아이콘"><br>켄
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/shiromaho/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/shiromaho/ichiro">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이치로 아이콘"><br>이치로
                 </a>
             </td>
         </tr>

@@ -33,7 +33,7 @@ hate: "어두운 곳"
 | 인물 | 관계 |
 |:---:|:---|
 | [![아라야 아이콘](/universe/assets/img/icons/alaya_icon.png)<br>아라야](./alaya) | 소꿉친구. 업무가 달라서 예전만큼 자주 놀지는 못한다. |
-| [![소희 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>소희](./sohee) | 친구. 워낙에 장거리 여행을 하는 경우가 많다보니 연체가 잦다. |
+| [![소희 아이콘](/universe/assets/img/icons/sohee_icon.png)<br>소희](./sohee) | 친구. 워낙에 장거리 여행을 하는 경우가 많다보니 연체가 잦다. |
 | [![이요 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>이요](./iyo) | 선배. 카리스마 있는 모습에 멋있다고 생각하지만 다가가기는 살짝 어렵다. |
 
 

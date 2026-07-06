@@ -22,8 +22,8 @@
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/mundawn/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/mundawn/subin">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="수빈 아이콘"><br>수빈
                 </a>
             </td>
         </tr>

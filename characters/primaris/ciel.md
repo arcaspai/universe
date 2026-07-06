@@ -33,10 +33,10 @@ hate: "지각"
 
 | 인물 | 관계 |
 |:---:|:---|
-| [![제트 아이콘](/universe/assets/img/icons/zett_icon.png)<br>제트 누아르](./zett) | 쌍둥이 동생. 함께 다니는 경우가 많다. |
-| [![로빈 아이콘](/universe/assets/img/icons/robin_icon.png)<br>로빈 로즈쿼츠](./robin) | 친구. 잠시 마검술을 공부했을 때 친해졌다. |
-| [![루시 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>루시 사이아너스](./lucy) | 라이벌. 옆 반 친구라 크게 의식하지는 않고 있었지만 본인도 모르는 새 라이벌이 되었다. |
-| [![안나 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>안나 누아르](./anna) | 사촌 언니. 마법공학 공부를 위해 안나의 연구실에 들리는 경우가 많다. |
+| [![제트 아이콘](/universe/assets/img/icons/zett_icon.png)<br>제트](./zett) | 쌍둥이 동생. 함께 다니는 경우가 많다. |
+| [![로빈 아이콘](/universe/assets/img/icons/robin_icon.png)<br>로빈](./robin) | 친구. 잠시 마검술을 공부했을 때 친해졌다. |
+| [![루시 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>루시](./lucy) | 라이벌. 옆 반 친구라 크게 의식하지는 않고 있었지만 본인도 모르는 새 라이벌이 되었다. |
+| [![안나 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>안나](./anna) | 사촌 언니. 마법공학 공부를 위해 안나의 연구실에 들리는 경우가 많다. |
 
 
 ## 여담 {#trivia}

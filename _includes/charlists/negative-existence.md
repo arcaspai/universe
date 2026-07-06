@@ -56,55 +56,55 @@
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/thaumiel">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="타우미엘 아이콘"><br>타우미엘
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/chaigidel">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="카이기델 아이콘"><br>카이기델
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/sathariel">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="사타리엘 아이콘"><br>사타리엘
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/gamchicoth">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="감키코트 아이콘"><br>감키코트
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/golachab">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="골라캅 아이콘"><br>골라캅
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/thagirion">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="타기리온 아이콘"><br>타기리온
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/serapel">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="세라펠 아이콘"><br>세라펠
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/samael">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="사마엘 아이콘"><br>사마엘
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/gamaliel">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="가말리엘 아이콘"><br>가말리엘
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/negative-existence/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/negative-existence/nechemoth">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="네헤모트 아이콘"><br>네헤모트
                 </a>
             </td>
         </tr>
