@@ -31,7 +31,7 @@ hate: "밖에 못 나가는 것"
 
 | 인물 | 관계 |
 |:---:|:---|
-| [![로저먼드 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>로저먼드](./rosamund) | 동생. 매일같이 사소한 일로 티격태격하지만 남들에게 당하는 꼴은 못 본다. |
+| [![로저먼드 아이콘](/universe/assets/img/icons/rosamund_icon.png)<br>로저먼드](./rosamund) | 동생. 매일같이 사소한 일로 티격태격하지만 남들에게 당하는 꼴은 못 본다. |
 | [![베르너 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>베르너](./werner) | 이웃. 오토바이 수리를 종종 맡기고는 한다. |
 | [![탄탈 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>탄탈](./tantal) | 이웃. 일에는 굉장히 도움이 되지만 사적으로 친해지고 싶지는 않다. |
 | [![론리 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>론리](./ronly) | 친구(?). 도시에서 온 좀 귀찮은 손님이다. |

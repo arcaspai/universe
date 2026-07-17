@@ -8,7 +8,7 @@
             </td>
             <td>
                 <a href="/universe/characters/zodiafield/rosamund">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="로저먼드 아이콘"><br>로저먼드
+                    <img src="/universe/assets/img/icons/rosamund_icon.png" alt="로저먼드 아이콘"><br>로저먼드
                 </a>
             </td>
             <td>
