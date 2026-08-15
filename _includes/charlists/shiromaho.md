@@ -56,13 +56,13 @@
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/shiromaho/hitori">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="히토리 아이콘"><br>히토리
+                <a href="/universe/characters/shiromaho/narumi">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="나루미 아이콘"><br>나루미
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/shiromaho/narumi">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="나루미 아이콘"><br>나루미
+                <a href="/universe/characters/shiromaho/itsuki">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이츠키 아이콘"><br>이츠키
                 </a>
             </td>
             <td>

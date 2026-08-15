@@ -17,17 +17,22 @@
                 </a>
             </td>
             <td>
+                <a href="/universe/characters/primaris/kai">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="카이 아이콘"><br>카이
+                </a>
+            </td>
+            <td>
                 <a href="/universe/characters/primaris/zuntie">
                     <img src="/universe/assets/img/icons/xxx_icon.png" alt="준티 아이콘"><br>준티
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>
                 <a href="/universe/characters/primaris/enki">
                     <img src="/universe/assets/img/icons/xxx_icon.png" alt="엔키 아이콘"><br>엔키
                 </a>
             </td>
-        </tr>
-        <tr>
             <td>
                 <a href="/universe/characters/primaris/tova">
                     <img src="/universe/assets/img/icons/xxx_icon.png" alt="토바 아이콘"><br>토바
@@ -41,11 +46,6 @@
             <td>
                 <a href="/universe/characters/primaris/millen">
                     <img src="/universe/assets/img/icons/xxx_icon.png" alt="밀렌 아이콘"><br>밀렌
-                </a>
-            </td>
-            <td>
-                <a href="/universe/characters/primaris/lunie">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="루니에 아이콘"><br>루니에
                 </a>
             </td>
             <td>

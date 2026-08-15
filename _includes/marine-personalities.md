@@ -9,7 +9,7 @@
             </td>
             <td>
                 <a href="./talassa">
-                    <img srg="/universe/assets/img/icons/xxx_icon.png" alt="탈라사 아이콘">
+                    <img srg="/universe/assets/img/icons/thalassa_icon.png" alt="탈라사 아이콘">
                     <br>탈라사
                 </a>
             </td>

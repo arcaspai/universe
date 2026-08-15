@@ -29,18 +29,18 @@
         </tr>
         <tr>
             <td>
-                <a href="/universe/characters/mundawn/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/mundawn/solbin">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="솔빈 아이콘"><br>솔빈
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/mundawn/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/mundawn/eve">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이브 아이콘"><br>이브
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/mundawn/xxx">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="xxx 아이콘"><br>xxx
+                <a href="/universe/characters/mundawn/pasteur">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="파스퇴르 아이콘"><br>파스퇴르
                 </a>
             </td>
             <td>

@@ -18,7 +18,7 @@
             </td>
             <td>
                 <a href="/universe/characters/stellamare/thalassa">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="탈라사 아이콘"><br>탈라사
+                    <img src="/universe/assets/img/icons/thalassa_icon.png" alt="탈라사 아이콘"><br>탈라사
                 </a>
             </td>
             <td>
