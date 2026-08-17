@@ -1,6 +1,6 @@
 ---
 layout: character
-title: 마린
+title: 탈라사
 charname: Thalassa
 world: 스텔라마레
 color: "#6992CF"
