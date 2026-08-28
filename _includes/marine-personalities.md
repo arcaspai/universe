@@ -1,5 +1,5 @@
 <div class="characters-list-frame">
-    <tabel class="characters-list">
+    <table class="characters-list">
         <tr>
             <td>
                 <a href="./marine">
