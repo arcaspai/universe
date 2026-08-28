@@ -7,3 +7,6 @@ description: "A journey from fantasy to ideality."
 baseurl: "universe"
 url: "https://arcaspai.github.io"
 author: Arcaspai
+
+plugins:
+    - jekyll-sitemap
