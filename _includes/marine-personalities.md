@@ -3,13 +3,13 @@
         <tr>
             <td>
                 <a href="./marine">
-                    <img src="./universe/assets/img/icons/marine_icon.png" alt="마린 아이콘">
+                    <img src="/universe/assets/img/icons/marine_icon.png" alt="마린 아이콘">
                     <br>마린
                 </a>
             </td>
             <td>
                 <a href="./thalassa">
-                    <img src="./universe/assets/img/icons/thalassa_icon.png" alt="탈라사 아이콘">
+                    <img src="/universe/assets/img/icons/thalassa_icon.png" alt="탈라사 아이콘">
                     <br>탈라사
                 </a>
             </td>
@@ -21,13 +21,13 @@
             </td>
             <td>
                 <a href="./ferry">
-                    <img src="./universe/assets/img/icons/xxx_icon.png" alt="페리 아이콘">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="페리 아이콘">
                     <br>페리
                 </a>
             </td>
             <td>
                 <a href="./ewart">
-                    <img src="./universe/assets/img/icons/xxx_icon.png" alt="이워트 아이콘">
+                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이워트 아이콘">
                     <br>이워트
                 </a>
             </td>
