@@ -30,7 +30,7 @@
         <tr>
             <td>
                 <a href="/universe/characters/arkhive/iyo">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이요 아이콘"><br>이요
+                    <img src="/universe/assets/img/icons/iyo_icon.png" alt="이요 아이콘"><br>이요
                 </a>
             </td>
             <td>
