@@ -3,7 +3,7 @@ layout: character
 title: 이요
 charname: Iyo
 world: 아크하이브
-color: "#9088ff"
+color: "#ffdb77"
 
 name-ko: "이요"
 name-en: "Iyo"
