@@ -32,8 +32,8 @@ hate: "무거운 분위기"
 
 | 인물 | 관계 |
 |:---:|:---|
-| [![제트 아이콘](/universe/assets/img/icons/zett_icon.png)<br>시엘](./zettl) | 친구. 스케이트보드에 관심이 생겼다고 해서 잘 타는 법을 가르쳐주고 있다. |
-| [![로빈 아이콘](/universe/assets/img/icons/robin_icon.png)<br>카이](./robin) | 친구. 매일 티격태격 하는 거 같지만 잘 논다. |
+| [![제트 아이콘](/universe/assets/img/icons/zett_icon.png)<br>제트](./zett) | 친구. 스케이트보드에 관심이 생겼다고 해서 잘 타는 법을 가르쳐주고 있다. |
+| [![로빈 아이콘](/universe/assets/img/icons/robin_icon.png)<br>로빈](./robin) | 친구. 매일 티격태격 하는 거 같지만 잘 논다. |
 | [![루키 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>루키](./rookie) | 친구. 2반에 놀러가는 이유 대부분이 루키랑 놀기 위해서다. |
 
 
