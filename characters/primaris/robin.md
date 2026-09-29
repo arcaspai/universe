@@ -33,9 +33,11 @@ hate: "시험"
 | 인물 | 관계 |
 |:---:|:---|
 | [![시엘 아이콘](/universe/assets/img/icons/ciel_icon.png)<br>시엘](./ciel) | 친구. 초등학교를 다닐 때 친해졌다. 시엘의 관심사는 좀 바뀌었지만 여전히 친하게 지낸다. |
-| [![루시 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>루시](./lucy) | 친구. 같이 마검술에 관심이 있어서 친구라고 생각한다. |
+| [![제트 아이콘](/universe/assets/img/icons/zett_icon.png)<br>제트](./zett) | 친구. 시엘과 함께 있는 경우가 많다보니 친해졌다. |
+| [![카이 아이콘](/universe/assets/img/icons/kai_icon.png)<br>카이](./kai) | 친구. 매일 티격태격하는 거 같지만 잘 논다. |
+| [![핀리 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>핀리](./pinlee) | 원수. 초등학교 시절 사소한 일로 싸우고서 사이가 안 좋아졌다. |
 | [![미라이 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>미라이](./mirai) | 선배. 마법 학교를 다님에도 마법을 거의 안 쓰는 모습이 용감해 보여서 마음에 든다. |
-| [![핀리 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>핀리](./pinlee) | 원수. 초등학교 시절 한 번 싸우고 난 후 그 이후로는 사이가 안 좋아졌다. |
+| [![아트론 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>아트론](./atron) | 어머니. 로빈이 불 속성을 선택한 이유도 어머니를 보고 멋있다고 생각했기 때문이다. |
 
 
 ## 여담 {#trivia}

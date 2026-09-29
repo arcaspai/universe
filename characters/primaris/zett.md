@@ -33,7 +33,8 @@ hate: "마법 이론 수업"
 | 인물 | 관계 |
 |:---:|:---|
 | [![시엘 아이콘](/universe/assets/img/icons/ciel_icon.png)<br>시엘](./ciel) | 쌍둥이 누나. 함께 다니는 경우가 많다. |
-| [![카이 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>카이](./kai) | 친구. 최근에는 스케이트보드 타는 법을 배우고 있다. |
+| [![로빈 아이콘](/universe/assets/img/icons/robin_icon.png)<br>로빈](./robin) | 친구. 따라가면 재밌는 일이 일어나는 경우가 많다. |
+| [![카이 아이콘](/universe/assets/img/icons/kai_icon.png)<br>카이](./kai) | 친구. 최근에는 스케이트보드 타는 법을 배우고 있다. |
 | [![루키 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>루키](./rookie) | 친구. 옆 반 친구 중에서 가장 먼저 친해졌다. |
 | [![안나 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>안나](./anna) | 사촌 누나. 가끔씩 간식을 받아 먹기 위해 연구실에 찾아간다. |
 
