@@ -18,7 +18,7 @@
             </td>
             <td>
                 <a href="/universe/characters/primaris/kai">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="카이 아이콘"><br>카이
+                    <img src="/universe/assets/img/icons/kai_icon.png" alt="카이 아이콘"><br>카이
                 </a>
             </td>
             <td>
