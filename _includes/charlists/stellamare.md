@@ -23,19 +23,19 @@
             </td>
             <td>
                 <a href="/universe/characters/stellamare/anthozoa">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="안토조아 아이콘"><br>안토조아
+                    <img src="/universe/assets/img/icons/anthozoa_icon.png" alt="안토조아 아이콘"><br>안토조아
                 </a>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="/universe/characters/stellamare/ferry">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="페리 아이콘"><br>페리
+                    <img src="/universe/assets/img/icons/ferry_icon.png" alt="페리 아이콘"><br>페리
                 </a>
             </td>
             <td>
                 <a href="/universe/characters/stellamare/ewart">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이워트 아이콘"><br>이워트
+                    <img src="/universe/assets/img/icons/ewart_icon.png" alt="이워트 아이콘"><br>이워트
                 </a>
             </td>
             <td>

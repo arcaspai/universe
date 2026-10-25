@@ -15,19 +15,19 @@
             </td>
             <td>
                 <a href="./anthozoa">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="안토조아 아이콘">
+                    <img src="/universe/assets/img/icons/anthozoa_icon.png" alt="안토조아 아이콘">
                     <br>안토조아
                 </a>
             </td>
             <td>
                 <a href="./ferry">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="페리 아이콘">
+                    <img src="/universe/assets/img/icons/ferry_icon.png" alt="페리 아이콘">
                     <br>페리
                 </a>
             </td>
             <td>
                 <a href="./ewart">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="이워트 아이콘">
+                    <img src="/universe/assets/img/icons/ewart_icon.png" alt="이워트 아이콘">
                     <br>이워트
                 </a>
             </td>
