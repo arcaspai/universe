@@ -33,7 +33,7 @@ hate: "수영"
 | 인물 | 관계 |
 |:---:|:---|
 | [![아스트라 아이콘](/universe/assets/img/icons/astra_icon.png)<br>아스트라](./astra) | 친구. 같이 바닷가를 걸어다니다보면 마음이 편해진다. |
-| [![갈매 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>갈매](./gullmae) | 친구. 마을 구석구석에 편지를 전하다보니 동네를 돌아다니다 보면 꼭 한 번씩은 만난다. |
+| [![갈매 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>갈매](./galmae) | 친구. 마을 구석구석에 편지를 전하다보니 동네를 돌아다니다 보면 꼭 한 번씩은 만난다. |
 | [![우라노스 아이콘](/universe/assets/img/icons/xxx_icon.png)<br>우라노스](./uranos) | 이웃(?). 가끔 해변에서 별모래를 줍다 보면 마주친다. 서로 별 말 없이 쳐다보다가 헤어지는 게 보통. |
 
 

@@ -39,7 +39,7 @@
                 </a>
             </td>
             <td>
-                <a href="/universe/characters/stellamare/gullmae">
+                <a href="/universe/characters/stellamare/galmae">
                     <img src="/universe/assets/img/icons/xxx_icon.png" alt="갈매 아이콘"><br>갈매
                 </a>
             </td>
