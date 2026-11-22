@@ -2,6 +2,8 @@
 layout: world
 title: -
 worldname: -
+
+world-summary: -
 ---
 
 | 초자연현상 | 크로마플럭스 |

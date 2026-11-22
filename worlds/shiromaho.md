@@ -2,6 +2,8 @@
 layout: world
 title: 시로마호
 worldname: Shiromaho
+
+world-summary: "시골 어딘가에 있는 그나마 번화한 마을."
 ---
 
 시골 어딘가에 있는 그나마 번화한 마을.

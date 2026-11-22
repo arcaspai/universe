@@ -2,6 +2,8 @@
 layout: world
 title: 키호놀란드
 worldname: Chihonoland
+
+world-summary: "살짝 쌀쌀한 지역에 있는 작은 마을. 어린이와 눈사람이 많이 보인다."
 ---
 
 살짝 쌀쌀한 지역에 있는 작은 마을.

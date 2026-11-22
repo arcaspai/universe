@@ -2,6 +2,8 @@
 layout: world
 title: 프리마리스
 worldname: Primaris
+
+world-summary: "마법사와 비마법사가 함께 사는 도시. 전통과 마법이 가득한 풍경이지만, ‘마법공학’이라는 기술이 신흥 기술로 떠오르고 있다."
 ---
 
 마법사와 비마법사가 함께 사는 도시.

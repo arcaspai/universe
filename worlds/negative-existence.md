@@ -2,6 +2,8 @@
 layout: world
 title: 무한계
 worldname: Negative-Existence
+
+world-summary: "여러 물체들이 한데 뒤섞여 초현실적인 구성을 이루는 공간의 집합체. 각각의 작은 공간이 얽히고설켜 만들어낸 공간 안에서는 조합과 분해가 반복된다."
 ---
 
 여러 물체들이 한데 뒤섞여 초현실적인 구성을 이루는 공간의 집합체.

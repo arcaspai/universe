@@ -2,6 +2,8 @@
 layout: world
 title: 스텔라마레
 worldname: Stellamare
+
+world-summary: "등대의 가호를 받는 바닷가 마을. 작고 평화로운 마을로, 선택받은 이는 온전한 별의 힘을 다룰 수 있다."
 ---
 
 등대의 가호를 받는 바닷가 마을.

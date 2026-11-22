@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<meta name="descriotipn" content="{{ page.world-summary }}">
+<meta property="og:description" content="{{ page.world-summary }}">
+<meta property="og:image" content="https://arcaspai.github.io/universe/universe/assets/img/views/{{ page.worldname | downcase }}.png">
 
+<h1>{{ page.title }}</h1>
 <p><strong>{{ page.worldname }}</strong></p>
 
 <details open="">

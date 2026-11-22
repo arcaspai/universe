@@ -2,6 +2,8 @@
 layout: world
 title: 아크하이브
 worldname: Arkhive
+
+world-summary: "초기 우주가 다른 우주로 파생되기 전에 적용되었던 근간 법칙을 관측할 수 있는 공간. 좁은 의미로는 그 안에서 차원 관측을 하는 관측소와 천문대가 있는 도시를 의미한다."
 ---
 
 **초기 우주(The first space)**가 다른 우주로 파생되기 전에 적용되었던 **근간 법칙(Root law)**을 관측할 수 있는 공간.
