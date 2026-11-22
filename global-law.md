@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: document
 title: 전역 법칙
 ---
 
