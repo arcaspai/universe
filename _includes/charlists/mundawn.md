@@ -3,7 +3,7 @@
         <tr>
             <td>
                 <a href="/universe/characters/mundawn/mina">
-                    <img src="/universe/assets/img/icons/xxx_icon.png" alt="민아 아이콘"><br>민아
+                    <img src="/universe/assets/img/icons/mina_icon.png" alt="민아 아이콘"><br>민아
                 </a>
             </td>
             <td>
