@@ -3,7 +3,7 @@ layout: character
 title: 민아
 charname: mina
 world: 먼동
-color: "#9088ff"
+color: "#FFB5BD"
 
 name-ko: "하민아"
 name-en: "Mina Ha"
